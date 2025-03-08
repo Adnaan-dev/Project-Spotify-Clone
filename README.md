@@ -50,7 +50,7 @@ Just open the `index.html` file in your browser to see the project live.
 We welcome contributions! Feel free to submit **pull requests** or open **issues** for improvements.
 
 
-## 📢 Connect with 
+## 📢 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Adnaan-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/)
 
